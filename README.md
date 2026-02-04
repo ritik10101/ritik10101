@@ -1,100 +1,121 @@
-## Hi 👋 I'm Abhay Prakash
+<div align="center">
 
-🎓 MCA Student at Chandigarh University  
-💻 Aspiring Software Developer  
+# 👋 Abhay Prakash
+
+🎓 **MCA Student | Python Developer**  
 📍 Mohali, Punjab, India  
 
-Motivated MCA graduate with strong knowledge of **Python**, **DSA**, **SQL**, and **AI-based systems**.  
-Hands-on experience in **software development**, **Flask-based web apps**, **computer vision**, and **data analytics**.  
-Quick learner with strong problem-solving skills and a passion for building impactful solutions.
+AI • Flask • OpenCV • SQL • Power BI  
+Building intelligent, data-driven applications 🚀
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🔧 Technical Skills
 
-**Programming Languages:**  
-- Python  
+</div>
 
-**Core Concepts:**  
-- Object-Oriented Programming  
-- Data Structures & Algorithms  
-- DBMS  
-- Computer Networks  
+<div align="center">
 
-**Databases:**  
-- SQL  
-- SQLite  
+| Category | Skills |
+|--------|--------|
+| **Programming** | Python |
+| **Core Concepts** | OOP, DSA, DBMS, Computer Networks |
+| **Databases** | SQL, SQLite |
+| **Frameworks** | Flask, OpenCV, REST APIs |
+| **Tools** | Git, GitHub, Power BI |
+| **Practices** | SDLC, Agile, Unit Testing, Debugging |
 
-**Frameworks & Libraries:**  
-- Flask  
-- OpenCV  
-- REST APIs  
-
-**Tools & Platforms:**  
-- Git & GitHub  
-- Power BI  
-
-**Practices & Methodologies:**  
-- SDLC  
-- Agile Methodology  
-- Unit Testing & Debugging  
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Major Projects
 
-### 🧠 SafeCrowd-AI – Intelligent Crowd Monitoring System
-**Tech Stack:** Python, Flask, YOLOv8, OpenCV, SQL  
+</div>
 
-- Achieved **93% people-detection accuracy** across 15+ test videos  
-- Improved multi-person tracking stability by **30%** using ByteTrack  
-- Automated crowd analytics and CSV report generation  
-- Built a responsive Flask dashboard with video upload support  
+<div align="center">
 
----
+| Project | Description | Tech Stack |
+|-------|------------|-----------|
+| 🧠 **SafeCrowd-AI** | 93% detection accuracy, 30% improved tracking, automated analytics | Python, Flask, YOLOv8, OpenCV, SQL |
+| 👤 **Facial Recognition System** | 90–92% accuracy, 80% reduction in manual effort | Python, OpenCV, Flask, SQL |
+| 📊 **HR Analytics Dashboard** | 950+ employees, 10+ KPIs, 65% efficiency gain | Power BI, Excel |
 
-### 👤 Facial Recognition Attendance System
-**Tech Stack:** Python, OpenCV, Flask, SQL  
-
-- Achieved **90–92% face recognition accuracy**  
-- Reduced manual attendance effort by **80%**  
-- Implemented admin-controlled user & dataset management  
-- Automated daily attendance reports  
+</div>
 
 ---
 
-### 📊 HR Analytics Dashboard – Employee Attrition Analysis
-**Tech Stack:** Power BI, Excel  
-
-- Analyzed data of **950+ employees**  
-- Built interactive dashboards with **10+ KPIs**  
-- Identified high-risk attrition segments  
-- Improved HR reporting efficiency by **65%**
-
----
+<div align="center">
 
 ## 🎓 Education
-**Master of Computer Applications (MCA)**  
-Chandigarh University  
-📊 CGPA: **7.91 / 10**
+
+</div>
+
+<div align="center">
+
+| Degree | University | CGPA |
+|------|-----------|------|
+| MCA | Chandigarh University | **7.91 / 10** |
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📜 Certifications
-- Python Foundation – Infosys Springboard  
-- Agile Scrum in Practice – Infosys Springboard  
-- SQL (Basic & Intermediate) – HackerRank  
+
+</div>
+
+<div align="center">
+
+| Platform | Certification |
+|--------|--------------|
+| Infosys Springboard | Python Foundation |
+| Infosys Springboard | Agile Scrum in Practice |
+| HackerRank | SQL (Basic & Intermediate) |
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🏆 Achievements
+
+</div>
+
+<div align="center">
+
 - Solved **150+ SQL problems** on HackerRank & LeetCode  
 - Delivered **3 major academic projects**  
-- 🥇 1st Prize – Department-level Nukkad Natak Competition  
+- 🥇 **1st Prize** – Department-level Nukkad Natak  
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 📫 Connect With Me
-- 📧 Email: abhayprakash5233@gmail.com  
-- 💼 LinkedIn: *(add your LinkedIn link)*  
-- 🌐 GitHub: https://github.com/ritik10101
+
+📧 **Email:** abhayprakash5233@gmail.com  
+💼 **LinkedIn:** *(add your LinkedIn link)*  
+🌐 **GitHub:** https://github.com/ritik10101  
+
+</div>
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ritik10101&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik10101&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
